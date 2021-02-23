@@ -26,8 +26,7 @@ header:
   anncmnt_is_home_only: true
   anncmnt_id: new-features
   logo: images/classic/logo.svg
-  anncmnt_content: Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien.
-    **[Learn More](/pricing/)**
+  anncmnt_content: 累计评测了1091款VPN.[ **Learn More**](vpnpays.com/reviews)
   has_anncmnt: true
   secondary_nav_links: []
   has_secondary_nav: true
