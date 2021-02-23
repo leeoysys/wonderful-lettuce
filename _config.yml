@@ -42,14 +42,15 @@ footer:
       style: link
   has_primary_nav: true
   social_links:
-    - style: link
-      has_icon: true
+    - url: Twitter.com
       icon_position: right
       new_window: false
       no_follow: false
-      type: action
-      url: Twitter.com
+      style: link
       label: Twitter
+      icon: twitter
+      type: action
+      has_icon: true
   logo: images/classic/logo.svg
   tertiary_nav_title: Legal
   tertiary_nav_links:
