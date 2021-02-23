@@ -13,6 +13,14 @@ header:
       label: Blog
       url: /blog
       style: link
+    - style: link
+      has_icon: false
+      icon_position: right
+      new_window: false
+      no_follow: false
+      type: action
+      label: VPN评测
+      url: /reviews
   has_primary_nav: true
   anncmnt_has_close: true
   anncmnt_is_home_only: true
@@ -21,19 +29,11 @@ header:
   anncmnt_content: Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien.
     **[Learn More](/pricing/)**
   has_anncmnt: true
-  secondary_nav_links:
-    - type: action
-      label: Contact
-      url: /contact
-      style: link
-    - type: action
-      label: Get Started
-      url: /pricing
-      style: primary
+  secondary_nav_links: []
   has_secondary_nav: true
-  logo_alt: DIY logo
+  logo_alt: VPNPays
   anncmnt_align: left
-  title: DIY
+  title: VPN购买指南
   type: header
 footer:
   primary_nav_links:
