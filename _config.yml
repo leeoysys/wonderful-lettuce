@@ -26,7 +26,7 @@ header:
   anncmnt_is_home_only: true
   anncmnt_id: new-features
   logo: images/classic/logo.svg
-  anncmnt_content: 累计评测了1091款VPN.[ **Learn More**](vpnpays.com/reviews)
+  anncmnt_content: 累计评测了1091款VPN. [查看推荐](vpnpays.com/reviews)
   has_anncmnt: true
   secondary_nav_links: []
   has_secondary_nav: true
@@ -40,14 +40,10 @@ footer:
       label: About
       url: /about
       style: link
-    - type: action
-      label: Style Guide
-      url: /style-guide
-      style: link
   has_primary_nav: true
   social_links:
     - style: link
-      has_icon: false
+      has_icon: true
       icon_position: right
       new_window: false
       no_follow: false
@@ -81,7 +77,7 @@ footer:
       style: link
   has_social: true
   has_secondary_nav: true
-  logo_alt: DIY logo
+  logo_alt: VPN指南logo
   content: '&copy; Stackbit. All rights reserved. This Jamstack site was created
     with <a href="https://www.stackbit.com/?utm_source=deployed-footer"
     target="_blank" rel="noopener">Stackbit</a>. Create yours <a
@@ -89,7 +85,7 @@ footer:
     target="_blank" rel="noopener">now</a>'
   type: footer
   has_tertiary_nav: true
-  primary_nav_title: Company
+  primary_nav_title: VPNPays
 sass:
   indentWidth: 4
   style: expanded
