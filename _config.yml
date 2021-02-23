@@ -162,3 +162,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://wonderful-lettuce-4b299.netlify.app'
